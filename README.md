@@ -4,4 +4,4 @@ Implementation of our paper - Toward fast multi-scale states estimation for reti
 
 -----------------------------------
 
-The code and dataset (XJTU-Re) will be open sourced after our paper is accepted.
+The battery dataset (XJTU-Re) is now available for download, and the code is being compiled and will be open sourced here later.
